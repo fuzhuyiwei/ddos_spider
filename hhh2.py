@@ -4,7 +4,7 @@ import itertools
 
 threads_name = 0
 
-f = open('ddos.txt', encoding='utf-8')
+f = open('threads_logs.txt', encoding='utf-8')
 password = f.read()
 # http://192.168.2.1
 def duoxiancheng(weishu2, url):
